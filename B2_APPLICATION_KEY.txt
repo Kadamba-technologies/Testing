@@ -1,0 +1,8 @@
+B2_APPLICATION_KEY
+K000hN/ld49TgrhD6laiT7pssxksWOI
+
+B2_APPLICATION_KEY_ID
+00042dceeca9cbf000000000e
+
+add below path
+C:\b2

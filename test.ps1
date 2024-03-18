@@ -1,0 +1,1 @@
+b2 sync "C:\sync test" "b2://AppVideos/sync test/"
