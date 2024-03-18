@@ -15,6 +15,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: chennai.cricket-21.com
-        username: ${{ secrets.ftp_username }}
+        username: ftpadmin
         password: ${{ secrets.ftp_password }}
         server-dir: /Ganesa/Testing/
